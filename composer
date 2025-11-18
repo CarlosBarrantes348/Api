@@ -1,7 +1,0 @@
-{
-  "name": "proyecto/webapi",
-  "description": "API PHP",
-  "require": {
-    "ext-pdo": "*"
-  }
-}
